@@ -18,18 +18,10 @@ I work across web applications, backend integrations, Linux tooling, and open so
 
 ## GitHub Snapshot
 
-<p>
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ciscosweater&show_icons=true&hide_border=true&title_color=1f6feb&icon_color=1f6feb&text_color=24292f&bg_color=ffffff"
-    alt="GitHub stats for ciscosweater"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciscosweater&layout=compact&hide_border=true&title_color=1f6feb&text_color=24292f&bg_color=ffffff"
-    alt="Top languages used by ciscosweater"
-  />
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/ciscosweater?style=for-the-badge&logo=github&label=Followers)](https://github.com/ciscosweater?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/ciscosweater?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars)](https://github.com/ciscosweater?tab=repositories)
+[![GitHub repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fciscosweater)](https://github.com/ciscosweater?tab=repositories)
+[![Top language](https://img.shields.io/github/languages/top/ciscosweater/portfolio2025?style=for-the-badge&logo=github&label=Top%20Language)](https://github.com/ciscosweater/portfolio2025)
 
 ## Elsewhere
 
