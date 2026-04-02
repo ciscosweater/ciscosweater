@@ -39,7 +39,7 @@
 
 My personal portfolio is where I package product thinking, frontend execution, and technical presentation into one place.
 
-[View repository](https://github.com/ciscosweater/portfolio2025)
+[View site](https://gustavofrancisco.vercel.app/)
 
 ### Linux Workflow Tooling
 
