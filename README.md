@@ -1,10 +1,6 @@
 # Gustavo Francisco
 
 <p align="center">
-  <img src="./assets/hero.svg" alt="Parchment-style banner with Gustavo Francisco, full stack developer." width="100%" />
-</p>
-
-<p align="center">
   <strong>Full Stack Developer building products, tools, and integrations with clear behavior, useful interfaces, and maintainable engineering.</strong>
 </p>
 
