@@ -1,5 +1,3 @@
-# Gustavo Francisco
-
 <p align="center">
   <strong>Full Stack Developer building products, tools, and integrations with clear behavior, useful interfaces, and maintainable engineering.</strong>
 </p>
