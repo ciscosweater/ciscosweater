@@ -1,0 +1,22 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Gustavo Francisco profile banner</title>
+  <desc id="desc">A subtle parchment and forest themed profile banner with the text Gustavo Francisco and Full Stack Developer.</desc>
+  <rect width="1280" height="320" rx="24" fill="#EEE4CC"/>
+  <rect x="18" y="18" width="1244" height="284" rx="18" fill="#E5D8B8" stroke="#8B6F47" stroke-width="2"/>
+  <path d="M0 244C149 219 225 191 340 191C452 191 531 236 643 236C757 236 806 191 924 191C1043 191 1109 235 1280 217V320H0V244Z" fill="#4A5D4B"/>
+  <path d="M0 269C151 245 226 219 340 219C457 219 551 261 643 261C736 261 830 217 924 217C1049 217 1143 258 1280 246V320H0V269Z" fill="#30443B"/>
+  <path d="M90 86H1190" stroke="#8B6F47" stroke-width="2" stroke-linecap="round"/>
+  <path d="M90 234H1190" stroke="#8B6F47" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="144" cy="86" r="7" fill="#516046"/>
+  <circle cx="1136" cy="234" r="7" fill="#516046"/>
+  <path d="M632 52L638.228 67.772L655 74L638.228 80.228L632 96L625.772 80.228L609 74L625.772 67.772L632 52Z" fill="#C9A45B"/>
+  <text x="640" y="132" text-anchor="middle" fill="#213128" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" letter-spacing="1">
+    Gustavo Francisco
+  </text>
+  <text x="640" y="170" text-anchor="middle" fill="#516046" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="4">
+    FULL STACK DEVELOPER
+  </text>
+  <text x="640" y="208" text-anchor="middle" fill="#30443B" font-family="Georgia, 'Times New Roman', serif" font-size="18">
+    Building practical software with product sense, Linux tooling, and clean systems.
+  </text>
+</svg>

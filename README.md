@@ -1,26 +1,80 @@
 # Gustavo Francisco
 
-Full Stack Developer building products, tools, and integrations with a strong bias toward clarity, usefulness, and maintainable engineering.
+<p align="center">
+  <img src="./assets/hero.svg" alt="Parchment-style banner with Gustavo Francisco, full stack developer." width="100%" />
+</p>
 
-I work across web applications, backend integrations, Linux tooling, and open source. A lot of what I enjoy lives at the edge between product work and technical infrastructure: turning messy requirements into software with clear behavior, solid architecture, and practical value.
+<p align="center">
+  <strong>Full Stack Developer building products, tools, and integrations with clear behavior, useful interfaces, and maintainable engineering.</strong>
+</p>
+
+<p align="center">
+  I work across web applications, backend integrations, Linux tooling, and product-minded infrastructure.
+  My best work usually starts where messy requirements need to become software that feels solid, intentional, and practical.
+</p>
+
+<p align="center">
+  <a href="https://gustavofrancisco.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://linkedin.com/in/guhfrancisco">LinkedIn</a>
+  ·
+  <a href="mailto:gustavo.f6041@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</p>
+
+## What I Build
+
+- Full stack products with real operational value, from interface to backend integration.
+- Linux-first tooling that removes friction from audio, media, desktop, and developer workflows.
+- Internal tools and technical experiments in Rust, Python, and TypeScript.
 
 ## Current Focus
 
-- Shipping full stack products with real operational value
-- Building Linux-first tooling and integrations that remove friction
-- Raising engineering quality through testing, automation, and DX
+- Shipping product work with clean architecture and predictable behavior.
+- Raising engineering quality through testing, automation, and developer experience.
+- Building integrations and utilities that sit between product needs and infrastructure constraints.
 
-## Other Things I Build
+## Selected Work
 
-- OpenDeck and Stream Deck plugins for Linux audio, media, and desktop workflows
-- Internal tools and experiments in Rust, Python, and TypeScript
-- Personal product and interface work, including [my portfolio](https://github.com/ciscosweater/portfolio2025)
+### Portfolio
+
+My personal portfolio is where I package product thinking, frontend execution, and technical presentation into one place.
+
+[View repository](https://github.com/ciscosweater/portfolio2025)
+
+### Linux Workflow Tooling
+
+I build OpenDeck and Stream Deck plugins aimed at audio, media, and desktop workflows on Linux, with an emphasis on reducing everyday operational friction.
+
+[Browse repositories](https://github.com/ciscosweater?tab=repositories)
+
+### Full Stack and Integration Work
+
+I am most interested in projects that require both product judgment and engineering rigor: backend integrations, useful interfaces, automation, and systems that stay maintainable over time.
+
+[See more work on GitHub](https://github.com/ciscosweater?tab=repositories)
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</p>
+
+## Stack and Craft
+
+```text
+TypeScript  Rust  Python  Linux  APIs  Automation  DX  Product Engineering
+```
+
+I care about clarity, maintainability, and software that behaves well in the real world.
+That means good boundaries, practical abstractions, solid debugging surfaces, and less incidental complexity.
 
 ## GitHub Snapshot
 
-[![GitHub followers](https://img.shields.io/github/followers/ciscosweater?style=for-the-badge&logo=github&label=Followers)](https://github.com/ciscosweater?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/ciscosweater?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars)](https://github.com/ciscosweater?tab=repositories)
-[![GitHub repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fciscosweater)](https://github.com/ciscosweater?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/ciscosweater?style=for-the-badge&logo=github&label=Followers&color=516046)](https://github.com/ciscosweater?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/ciscosweater?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=8b6f47)](https://github.com/ciscosweater?tab=repositories)
+[![GitHub repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fciscosweater&color=30443b)](https://github.com/ciscosweater?tab=repositories)
 
 ## Elsewhere
 
@@ -29,6 +83,6 @@ I work across web applications, backend integrations, Linux tooling, and open so
 - Portfolio: [gustavofrancisco.vercel.app](https://gustavofrancisco.vercel.app/)
 - Email: [gustavo.f6041@gmail.com](mailto:gustavo.f6041@gmail.com)
 
----
-
-Open to interesting work around full stack development, developer tooling, Linux, and product-focused engineering.
+<p align="center">
+  <em>Open to product-focused full stack work, developer tooling, Linux integrations, and thoughtful engineering collaborations.</em>
+</p>

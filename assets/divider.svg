@@ -1,0 +1,11 @@
+<svg width="1200" height="28" viewBox="0 0 1200 28" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Decorative divider</title>
+  <desc id="desc">A subtle forest and parchment themed divider.</desc>
+  <rect width="1200" height="28" rx="14" fill="#E8DFC8"/>
+  <path d="M32 14H530" stroke="#516046" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M670 14H1168" stroke="#516046" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="566" cy="14" r="5" fill="#8B6F47"/>
+  <circle cx="600" cy="14" r="8" fill="#516046"/>
+  <circle cx="634" cy="14" r="5" fill="#8B6F47"/>
+  <path d="M600 5L603.2 10.8L609 11.5L604.8 15.5L606 21.2L600 18L594 21.2L595.2 15.5L591 11.5L596.8 10.8L600 5Z" fill="#C9A45B"/>
+</svg>
