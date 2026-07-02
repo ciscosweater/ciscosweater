@@ -6,9 +6,10 @@
 TypeScript  ·  Rust  ·  Python  ·  Linux  ·  APIs  ·  Automation  ·  DX
 ```
 
-- 🌐 [Portfolio & Web Projects](https://gustavofrancisco.vercel.app/)
-- 🐧 [Linux Workflow & Stream Deck Tooling](https://github.com/ciscosweater?tab=repositories)
-- 💼 [LinkedIn](https://linkedin.com/in/guhfrancisco) · ✉️ [Email](mailto:gustavo.f6041@gmail.com)
+- 🌐 [Portfolio](https://gustavofrancisco.vercel.app/)
+- 🐧 [Projects](https://github.com/ciscosweater?tab=repositories)
+- 💼 [LinkedIn](https://linkedin.com/in/guhfrancisco)
+- ✉️ [Email](mailto:gustavo.f6041@gmail.com)
 
 ---
 
